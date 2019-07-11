@@ -1,4 +1,4 @@
-# PostmanLocalMock
+# Postman Local Mock
 
 Simple utility that runs a mock api out of an API using a postman collection as a base.
 
